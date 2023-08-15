@@ -1,0 +1,2 @@
+# momosm
+perform subdomain takover
